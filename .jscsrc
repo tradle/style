@@ -58,5 +58,6 @@
     "safeContextKeyword": "self",
     "validateLineBreaks": "LF",
     "validateQuoteMarks": "'",
-    "validateIndentation": 2
+    "validateIndentation": 2,
+    "excludeFiles": ["node_modules/**", "*.min.js"]
 }
