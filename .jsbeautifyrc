@@ -10,7 +10,7 @@
   "jslint_happy": false,
   "keep_array_indentation": false,
   "keep_function_indentation": false,
-  "max_preserve_newlines": 3,
+  "max_preserve_newlines": 2,
   "preserve_newlines": true,
   "space_before_conditional": true,
   "space_in_paren": false,
