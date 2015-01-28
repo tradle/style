@@ -21,6 +21,7 @@
     "escape",
     "unescape"
   ],
+  "mocha": true,
   "quotmark": "single",
   "strict": false,
   "undef": true,
